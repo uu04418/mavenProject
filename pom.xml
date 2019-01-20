@@ -7,5 +7,7 @@
   <modules>
   	<module>mavenCommon</module>
   	<module>mavenDao</module>
+  	<module>mavenService</module>
+  	<module>mavenController</module>
   </modules>
 </project>
